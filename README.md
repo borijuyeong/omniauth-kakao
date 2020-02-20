@@ -1,5 +1,7 @@
 # OmniAuth Kakao
 
+# V2에 대응하기위한 임시 Gem 입니다 사용하시다가 문제가 생기실 확률이 농후합니다
+## 사용하지 마세요
 This is the OmniAuth strategy for authenticating to [Kakao](http://www.kakao.com/). To
 use it, you'll need to sign up for an REST API Key on the [Kakao Developers Page](http://developers.kakao.com). For more information, please refer to [Create New Application](https://developers.kakao.com/docs/restapi#시작하기-앱-생성) page.
 
