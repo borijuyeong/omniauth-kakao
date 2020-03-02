@@ -1,4 +1,4 @@
-# OmniAuth Kakao ### for kakao api v2 
+# OmniAuth Kakao for kakao api v2
 
 
 This is the OmniAuth strategy for authenticating to [Kakao](http://www.kakao.com/). To
