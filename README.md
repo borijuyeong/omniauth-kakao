@@ -13,7 +13,7 @@ Add to your `Gemfile`:
 `Gemfile`에 다음의 코드를 넣어주세요.
 
 ```ruby
-gem 'omniauth-kakao'
+gem 'omniauth-kakao', :git => 'git://github.com/borijuyeong/omniauth-kakao'
 ```
 
 Then `bundle install`.
